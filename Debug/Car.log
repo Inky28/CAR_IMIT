@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\Ігор\source\repos\17.06.2020 ООП\Car\main.cpp(290,61): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ігор\source\repos\17.06.2020 ООП\Car\main.cpp(295,69): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ігор\source\repos\17.06.2020 ООП\Car\main.cpp(300,64): warning C4305: 'argument': truncation from 'double' to 'float'
+  Car.vcxproj -> C:\Users\Ігор\source\repos\17.06.2020 ООП\Debug\Car.exe
